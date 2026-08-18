@@ -35,36 +35,59 @@ and turning ideas into working software.
 
 <div align="center">
 
-👥 2 Followers    ⭐ 2 Stars
+👥 2 Followers     ⭐ 2 Stars
 
-View My Repositories →
+View all repositories →
 
 </div>
 
 🚀 Featured Projects
+
+<div align="center">
+
+<table> <tr> <td width="50%" align="left">
+
 🤖 Humanoid Agentic Textbook
 
-AI • Python • LLMs
+AI agents, LLMs, and intelligent workflows.
 
-Exploring AI agents, intelligent systems, and agentic workflows.
+Python · AI · LLMs
 
-🔗 View Repository
+View Repository →
+
+</td>
+
+<td width="50%" align="left">
 
 🔐 Secure Data Encryption System
 
-Python • Cryptography • Security
+Secure encryption and data protection.
 
-A project focused on data encryption and secure information protection.
+Python · Cryptography · Security
 
-🔗 View Repository
+View Repository →
+
+</td> </tr> </table>
+
+</div>
 
 🧠 Currently Learning
 
-	Focus	Technologies
-🐍	Python	OOP · APIs · Async · Automation
-🤖	AI	LLMs · AI Agents · Machine Learning
-🌐	Web	Django · FastAPI · React · Next.js
-⚙️	DevOps	Docker · Git · Deployment
+<div align="center">
+
+🐍 Python
+Advanced Python · OOP · APIs · Async Programming
+
+🤖 AI
+LLMs · AI Agents · Machine Learning
+
+🌐 Web Development
+Django · FastAPI · React · Next.js
+
+⚙️ DevOps
+Docker · Git · Deployment
+
+</div>
 ## 📈 GitHub Activity
 
 <div align="center">

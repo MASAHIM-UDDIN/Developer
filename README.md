@@ -31,50 +31,29 @@ and turning ideas into working software.
 
 ---
 
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,tailwind,nodejs,django,fastapi,postgresql,docker,git,github,vscode" />
-
-</p>
-
----
 <div align="center">
 
-<table> <tr> <td align="center" width="33%">
+<table> <tr> <td align="center" width="180">
 
-👥
+👥 Followers
 
-<strong>Followers</strong>
-
-<br>
-
-<a href="https://github.com/MASAHIM-UDDIN"> <img src="https://img.shields.io/github/followers/MASAHIM-UDDIN?style=flat-square&label=&color=3776AB"> </a>
+2
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="180">
 
-⭐
+⭐ Stars
 
-<strong>Total Stars</strong>
-
-<br>
-
-<a href="https://github.com/MASAHIM-UDDIN?tab=repositories"> <img src="https://img.shields.io/github/stars/MASAHIM-UDDIN?style=flat-square&label=&color=FFB000"> </a>
+2
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="180">
 
-💻
+📦 Repositories
 
-<strong>Repositories</strong>
-
-<br>
-
-<img src="https://img.shields.io/github/repos/MASAHIM-UDDIN?style=flat-square&label=&color=7C3AED">
+<a href="https://github.com/MASAHIM-UDDIN?tab=repositories">View →</a>
 
 </td> </tr> </table>
 
@@ -82,23 +61,18 @@ and turning ideas into working software.
 
 🚀 Featured Projects
 
-<div align="center">
-
 <table> <tr>
 
 <td width="50%" valign="top">
 
 🤖 Humanoid Agentic Textbook
 
-A project focused on AI agents, intelligent systems, and agentic workflows.
+AI agents, intelligent systems, and agentic workflows.
 
-Tech
-
+Stack:
 Python AI LLMs
 
-<br>
-
-<a href="https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1"> <img src="https://img.shields.io/badge/View%20Project-3776AB?style=for-the-badge&logo=github&logoColor=white"> </a>
+View Project →
 
 </td>
 
@@ -106,61 +80,24 @@ Python AI LLMs
 
 🔐 Secure Data Encryption System
 
-A security-focused project for data encryption and secure information handling.
+Secure data encryption and information protection.
 
-Tech
-
+Stack:
 Python Cryptography Security
 
-<br>
-
-<a href="https://github.com/MASAHIM-UDDIN/Secure-Data-Encryption-System"> <img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"> </a>
+View Project →
 
 </td>
 
 </tr> </table>
-
-</div>
 
 🧠 Currently Learning
 
 <div align="center">
 
-<table> <tr>
-
-<td align="center">
-
-🐍<br>
-<strong>Advanced Python</strong><br>
-<sub>OOP • Async • APIs</sub>
-
-</td>
-
-<td align="center">
-
-🤖<br>
-<strong>Artificial Intelligence</strong><br>
-<sub>LLMs • Agents • ML</sub>
-
-</td>
-
-<td align="center">
-
-🌐<br>
-<strong>Web Development</strong><br>
-<sub>Django • FastAPI • React</sub>
-
-</td>
-
-<td align="center">
-
-⚙️<br>
-<strong>DevOps</strong><br>
-<sub>Docker • Git • Deployment</sub>
-
-</td>
-
-</tr> </table>
+🐍 Python	🤖 AI	🌐 Web Development	⚙️ DevOps
+OOP • APIs	LLMs • Agents	Django • FastAPI	Docker • Git
+Async • Automation	Machine Learning	React • Next.js	Deployment
 
 </div>
 ## 📈 GitHub Activity

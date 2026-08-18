@@ -12,6 +12,8 @@
   />
 </p>
 
+---
+
 ### 🐍 Python Developer • 🤖 AI • 🌐 Web Development
 
 Building useful software, automation & AI tools.

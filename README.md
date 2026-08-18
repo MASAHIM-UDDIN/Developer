@@ -1,55 +1,26 @@
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│              👋 HELLO, I'M MASAHIM                 │
-│                                                    │
-│       🐍 Python Developer • AI • Web Development   │
-│                                                    │
-│   Building useful software, automation & AI tools  │
-│                                                    │
-╰────────────────────────────────────────────────────╯
+<div align="center">
 
-        🐍 PYTHON        🤖 AI        🌐 WEB
-        ⚡ AUTOMATION     🔧 TOOLS     📚 LEARNING
+# 👋 Hello, I'm Masahim Uddin
 
+### 🐍 Python Developer • 🤖 AI • 🌐 Web Development
+
+**Building useful software, automation & AI tools.**
+
+<br>
+
+🐍 **Python** &nbsp; • &nbsp;
+🤖 **AI** &nbsp; • &nbsp;
+🌐 **Web** &nbsp; • &nbsp;
+⚡ **Automation** &nbsp; • &nbsp;
+🔧 **Tools** &nbsp; • &nbsp;
+📚 **Learning**
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-I'm a developer focused on Python, AI, automation,
-and building practical software solutions.
+I'm a developer passionate about **Python, AI, automation, and web development**.
 
-I enjoy turning ideas into working applications
-and continuously improving my development skills.
-
-
-## 🛠️ Tech Stack
-
-🐍 Python       ⚡ JavaScript
-🤖 AI / ML      🌐 HTML / CSS
-🗄️ Databases    🔧 Git / GitHub
-
-
-## 🚀 Featured Projects
-
-📚 Humaniod Agentic Textbook
-🔐 Secure Data Encryption System
-🔢 Unit Converter
-🔑 Password Strength Meter
-📖 Personal Library Manager
-
-
-## 📊 GitHub Activity
-
-[GitHub stats here]
-
-
-## 🧠 Currently Learning
-
-Python Advanced
-AI & Machine Learning
-Backend Development
-APIs & Automation
-
-
-## 📫 Connect
-
-GitHub • LinkedIn • X
+I enjoy building practical projects, experimenting with new technologies, and continuously improving my development skills.

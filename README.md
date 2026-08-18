@@ -1,6 +1,13 @@
-<div align="center">
+<h1 align="center">
+  👋 Hello, I'm Muhammad Masahim Uddin
+</h1>
 
-# 👋 Hello, I'm Muhammad Masahim Uddin
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5A1F&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Software+Developer;Cybersecurity+Enthusiast;Building+%26+Learning+Every+Day"
+    alt="Typing animation"
+  />
+</p>
 
 ### 🐍 Python Developer • 🤖 AI • 🌐 Web Development
 

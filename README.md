@@ -40,72 +40,129 @@ and turning ideas into working software.
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<a href="https://github.com/MASAHIM-UDDIN">
-<img src="https://img.shields.io/github/followers/MASAHIM-UDDIN?style=for-the-badge&logo=github&label=Followers" />
-</a>
+<table> <tr> <td align="center" width="33%">
 
-<a href="https://github.com/MASAHIM-UDDIN?tab=repositories">
-<img src="https://img.shields.io/github/stars/MASAHIM-UDDIN?style=for-the-badge&logo=github&label=Total%20Stars" />
-</a>
+👥
 
-<a href="https://github.com/MASAHIM-UDDIN/Developer">
-<img src="https://img.shields.io/github/last-commit/MASAHIM-UDDIN/Developer?style=for-the-badge&logo=github&label=Last%20Commit" />
-</a>
+<strong>Followers</strong>
+
+<br>
+
+<a href="https://github.com/MASAHIM-UDDIN"> <img src="https://img.shields.io/github/followers/MASAHIM-UDDIN?style=flat-square&label=&color=3776AB"> </a>
+
+</td>
+
+<td align="center" width="33%">
+
+⭐
+
+<strong>Total Stars</strong>
+
+<br>
+
+<a href="https://github.com/MASAHIM-UDDIN?tab=repositories"> <img src="https://img.shields.io/github/stars/MASAHIM-UDDIN?style=flat-square&label=&color=FFB000"> </a>
+
+</td>
+
+<td align="center" width="33%">
+
+💻
+
+<strong>Repositories</strong>
+
+<br>
+
+<img src="https://img.shields.io/github/repos/MASAHIM-UDDIN?style=flat-square&label=&color=7C3AED">
+
+</td> </tr> </table>
 
 </div>
 
----
-
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1">
-<img src="https://img.shields.io/badge/Humaniod%20Agentic%20Textbook-View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
+<table> <tr>
 
-<a href="https://github.com/MASAHIM-UDDIN/Secure-Data-Encryption-System">
-<img src="https://img.shields.io/badge/Secure%20Data%20Encryption%20System-View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
+<td width="50%" valign="top">
+
+🤖 Humanoid Agentic Textbook
+
+A project focused on AI agents, intelligent systems, and agentic workflows.
+
+Tech
+
+Python AI LLMs
+
+<br>
+
+<a href="https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1"> <img src="https://img.shields.io/badge/View%20Project-3776AB?style=for-the-badge&logo=github&logoColor=white"> </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🔐 Secure Data Encryption System
+
+A security-focused project for data encryption and secure information handling.
+
+Tech
+
+Python Cryptography Security
+
+<br>
+
+<a href="https://github.com/MASAHIM-UDDIN/Secure-Data-Encryption-System"> <img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"> </a>
+
+</td>
+
+</tr> </table>
 
 </div>
 
----
+🧠 Currently Learning
 
-## 🧠 Currently Learning
+<div align="center">
 
-```text
-Python
- ├── Advanced Python
- ├── OOP
- ├── APIs
- ├── Async Programming
- └── Automation
+<table> <tr>
 
-AI
- ├── LLMs
- ├── AI Agents
- └── Machine Learning
+<td align="center">
 
-Web Development
- ├── Django
- ├── FastAPI
- ├── React
- └── Next.js
+🐍<br>
+<strong>Advanced Python</strong><br>
+<sub>OOP • Async • APIs</sub>
 
-DevOps
- ├── Docker
- ├── Git
- └── Deployment
-```
+</td>
 
----
+<td align="center">
 
+🤖<br>
+<strong>Artificial Intelligence</strong><br>
+<sub>LLMs • Agents • ML</sub>
+
+</td>
+
+<td align="center">
+
+🌐<br>
+<strong>Web Development</strong><br>
+<sub>Django • FastAPI • React</sub>
+
+</td>
+
+<td align="center">
+
+⚙️<br>
+<strong>DevOps</strong><br>
+<sub>Docker • Git • Deployment</sub>
+
+</td>
+
+</tr> </table>
+
+</div>
 ## 📈 GitHub Activity
 
 <div align="center">

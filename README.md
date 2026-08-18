@@ -45,9 +45,15 @@ and turning ideas into working software.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MASAHIM-UDDIN&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=MASAHIM-UDDIN&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASAHIM-UDDIN&layout=compact&theme=github_dark&hide_border=true" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASAHIM-UDDIN&layout=compact&theme=github_dark&hide_border=true"
+/>
 
 </div>
 
@@ -57,12 +63,13 @@ and turning ideas into working software.
 
 <div align="center">
 
-## 🚀 Featured Projects
+<a href="https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1">
+  <img src="./assets/project-1.svg" width="48%" />
+</a>
 
-<div align="center">
-
-<img src="./assets/project-1.svg" width="48%" />
-<img src="./assets/project-2.svg" width="48%" />
+<a href="https://github.com/MASAHIM-UDDIN/Secure-Data-Encryption-System">
+  <img src="./assets/project-2.svg" width="48%" />
+</a>
 
 </div>
 
@@ -82,3 +89,14 @@ AI
  ├── LLMs
  ├── AI Agents
  └── Machine Learning
+
+Web Development
+ ├── Django
+ ├── FastAPI
+ ├── React
+ └── Next.js
+
+DevOps
+ ├── Docker
+ ├── Git
+ └── Deployment

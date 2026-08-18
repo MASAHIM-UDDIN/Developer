@@ -46,6 +46,9 @@ and turning ideas into working software.
 
 Building practical software with Python, AI, automation and modern web technologies.
 
+---
+
+
 🚀 Featured Projects
 
 <div align="center">
@@ -80,6 +83,9 @@ Building practical software with Python, AI, automation and modern web technolog
 
 </div>
 
+---
+
+
 🧠 Currently Learning
 
 <div align="center">
@@ -96,6 +102,9 @@ Building practical software with Python, AI, automation and modern web technolog
 
 </div>
 
+---
+
+
 ⚡ What I Build
 
 <div align="center">
@@ -105,6 +114,9 @@ Building practical software with Python, AI, automation and modern web technolog
 🌐 Web Applications   🔌 APIs   🛠 Developer Tools
 
 </div>
+
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">

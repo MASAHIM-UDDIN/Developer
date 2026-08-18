@@ -122,7 +122,7 @@ Building practical software with Python, AI, automation and modern web technolog
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/output/github-contribution-grid-snake.svg?v=2026"
   alt="GitHub Contribution Graph"
   width="900"
 />

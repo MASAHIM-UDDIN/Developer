@@ -122,9 +122,7 @@ Building practical software with Python, AI, automation and modern web technolog
 <div align="center">
 
 <a href="https://github.com/MASAHIM-UDDIN">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MASAHIM-UDDIN&theme=github-dark&hide_border=true" />
-
+<img src="https://img.shields.io/badge/View%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>

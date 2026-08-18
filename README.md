@@ -41,6 +41,8 @@ View all repositories →
 
 </div>
 
+---
+
 🚀 Featured Projects
 
 <div align="center">
@@ -70,6 +72,8 @@ View Repository →
 </td> </tr> </table>
 
 </div>
+
+---
 
 🧠 Currently Learning
 

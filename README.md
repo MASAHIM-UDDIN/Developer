@@ -57,13 +57,12 @@ and turning ideas into working software.
 
 <div align="center">
 
-<a href="https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MASAHIM-UDDIN&repo=Humaniod-Agentic-Textbook-1&theme=github_dark&hide_border=true" />
-</a>
+## 🚀 Featured Projects
 
-<a href="https://github.com/MASAHIM-UDDIN/Secure-Data-Encryption-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MASAHIM-UDDIN&repo=Secure-Data-Encryption-System&theme=github_dark&hide_border=true" />
-</a>
+<div align="center">
+
+<img src="./assets/project-1.svg" width="48%" />
+<img src="./assets/project-2.svg" width="48%" />
 
 </div>
 

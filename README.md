@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=100&pause=1200&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hello%2C+I'm+Muhammad+Masahim+Uddin"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=700&pause=500&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B;Hello%2C;I'm;Muhammad;Masahim;Uddin"
     alt="👋 Hello, I'm Muhammad Masahim Uddin"
   />
 </p>

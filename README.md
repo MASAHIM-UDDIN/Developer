@@ -35,43 +35,36 @@ and turning ideas into working software.
 
 <div align="center">
 
-<a href="https://github.com/MASAHIM-UDDIN"> <img src="https://img.shields.io/github/followers/MASAHIM-UDDIN?label=Followers&style=flat-square&logo=github" /> </a> &nbsp; <a href="https://github.com/MASAHIM-UDDIN?tab=repositories"> <img src="https://img.shields.io/github/stars/MASAHIM-UDDIN?label=Stars&style=flat-square&logo=github" /> </a> &nbsp; <a href="https://github.com/MASAHIM-UDDIN?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-View-181717?style=flat-square&logo=github" /> </a>
+👥 2 Followers    ⭐ 2 Stars
+
+View My Repositories →
 
 </div>
 
 🚀 Featured Projects
-
-<div align="center">
-
 🤖 Humanoid Agentic Textbook
 
-AI agents • LLMs • Python
+AI • Python • LLMs
 
-A project exploring agentic AI systems and intelligent workflows.
+Exploring AI agents, intelligent systems, and agentic workflows.
 
-<a href="https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+🔗 View Repository
 
 🔐 Secure Data Encryption System
 
 Python • Cryptography • Security
 
-A project focused on secure data encryption and protection.
+A project focused on data encryption and secure information protection.
 
-<a href="https://github.com/MASAHIM-UDDIN/Secure-Data-Encryption-System"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-
-</div>
+🔗 View Repository
 
 🧠 Currently Learning
 
-<div align="center">
-
-🐍 Advanced Python   🤖 AI & LLMs   🌐 Django & FastAPI
-
-⚛️ React & Next.js   🐳 Docker   ⚙️ Automation
-
-</div>
-
-</div>
+	Focus	Technologies
+🐍	Python	OOP · APIs · Async · Automation
+🤖	AI	LLMs · AI Agents · Machine Learning
+🌐	Web	Django · FastAPI · React · Next.js
+⚙️	DevOps	Docker · Git · Deployment
 ## 📈 GitHub Activity
 
 <div align="center">

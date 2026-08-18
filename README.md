@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/main/assets/hello-animation.svg"
-    width="850"
-    alt="👋 Hello, I'm Muhammad Masahim Uddin"
-  />
-</p>
+
 
 
 

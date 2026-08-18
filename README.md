@@ -30,66 +30,79 @@ and turning ideas into working software.
 * 📚 Continuously improving my skills
 
 ---
-
-📊 GitHub Stats
+📊 GitHub Overview
 
 <div align="center">
 
-👥 2 Followers     ⭐ 2 Stars
+<img src="https://komarev.com/ghpvc/?username=MASAHIM-UDDIN&style=for-the-badge&color=3776AB&label=PROFILE+VIEWS" />
 
-View all repositories →
+<br><br>
+
+<img src="https://img.shields.io/github/followers/MASAHIM-UDDIN?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=3776AB" /> <img src="https://img.shields.io/github/stars/MASAHIM-UDDIN?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F59E0B" /> <img src="https://img.shields.io/github/last-commit/MASAHIM-UDDIN/Developer?style=for-the-badge&logo=github&logoColor=white&label=LATEST+COMMIT&color=22C55E" />
 
 </div>
 
----
+<br>
+
+Building practical software with Python, AI, automation and modern web technologies.
 
 🚀 Featured Projects
 
 <div align="center">
 
-<table> <tr> <td width="50%" align="left">
+<table> <tr>
 
-🤖 Humanoid Agentic Textbook
+<td width="50%" valign="top">
 
-AI agents, LLMs, and intelligent workflows.
+<h3>🤖 Humanoid Agentic Textbook</h3>
 
-Python · AI · LLMs
+<p> A practical exploration of <strong>AI agents, LLMs and agentic workflows</strong>. </p>
 
-View Repository →
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square" /> </p>
+
+<p> <a href="https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1"> <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-%E2%86%92-3776AB?style=for-the-badge" /> </a> </p>
 
 </td>
 
-<td width="50%" align="left">
+<td width="50%" valign="top">
 
-🔐 Secure Data Encryption System
+<h3>🔐 Secure Data Encryption System</h3>
 
-Secure encryption and data protection.
+<p> A security-focused project for <strong>encryption, secure storage and data protection</strong>. </p>
 
-Python · Cryptography · Security
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Cryptography-DC2626?style=flat-square" /> <img src="https://img.shields.io/badge/Security-111827?style=flat-square" /> </p>
 
-View Repository →
+<p> <a href="https://github.com/MASAHIM-UDDIN/Secure-Data-Encryption-System"> <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-%E2%86%92-7C3AED?style=for-the-badge" /> </a> </p>
 
-</td> </tr> </table>
+</td>
+
+</tr> </table>
 
 </div>
-
----
 
 🧠 Currently Learning
 
 <div align="center">
 
-🐍 Python
-Advanced Python · OOP · APIs · Async Programming
+<img src="https://img.shields.io/badge/PYTHON-Advanced%20Python%20%7C%20OOP%20%7C%20Async-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-🤖 AI
-LLMs · AI Agents · Machine Learning
+<img src="https://img.shields.io/badge/AI-LLMs%20%7C%20Agents%20%7C%20ML-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
-🌐 Web Development
-Django · FastAPI · React · Next.js
+<br>
 
-⚙️ DevOps
-Docker · Git · Deployment
+<img src="https://img.shields.io/badge/WEB-Django%20%7C%20FastAPI%20%7C%20React-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/DEVOPS-Docker%20%7C%20Git%20%7C%20Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
+
+⚡ What I Build
+
+<div align="center">
+
+🐍 Python Applications   🤖 AI Tools   ⚙️ Automation
+
+🌐 Web Applications   🔌 APIs   🛠 Developer Tools
 
 </div>
 ## 📈 GitHub Activity

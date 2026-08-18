@@ -1,49 +1,10 @@
-<svg width="900" height="100" viewBox="0 0 900 100"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <style>
-    .word {
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 38px;
-      font-weight: 700;
-      fill: currentColor;
-      opacity: 0;
-      animation: appear 8s infinite;
-    }
-
-    .w1 { animation-delay: 0s; }
-    .w2 { animation-delay: 0.7s; }
-    .w3 { animation-delay: 1.4s; }
-    .w4 { animation-delay: 2.1s; }
-    .w5 { animation-delay: 2.8s; }
-    .w6 { animation-delay: 3.5s; }
-
-    @keyframes appear {
-      0%, 5% {
-        opacity: 0;
-        transform: translateY(10px);
-      }
-
-      10%, 75% {
-        opacity: 1;
-        transform: translateY(0);
-      }
-
-      85%, 100% {
-        opacity: 0;
-        transform: translateY(-10px);
-      }
-    }
-  </style>
-
-  <text x="20" y="60" class="word w1">👋</text>
-  <text x="70" y="60" class="word w2">Hello,</text>
-  <text x="220" y="60" class="word w3">I'm</text>
-  <text x="300" y="60" class="word w4">Muhammad</text>
-  <text x="530" y="60" class="word w5">Masahim</text>
-  <text x="720" y="60" class="word w6">Uddin</text>
-
-</svg>
+<p align="center">
+  <img
+    src="./assets/hello-animation.svg"
+    alt="👋 Hello, I'm Muhammad Masahim Uddin"
+    width="850"
+  />
+</p>
 
 <p align="center">
   <img

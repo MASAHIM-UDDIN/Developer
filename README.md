@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Masahim Uddin
+# 👋 Hello, I'm Muhammad Masahim Uddin
 
 ### 🐍 Python Developer • 🤖 AI • 🌐 Web Development
 

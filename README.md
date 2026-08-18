@@ -121,9 +121,11 @@ Building practical software with Python, AI, automation and modern web technolog
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=MASAHIM-UDDIN&theme=github-compact&hide_border=true"
-/>
+<a href="https://github.com/MASAHIM-UDDIN">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MASAHIM-UDDIN&theme=github-dark&hide_border=true" />
+
+</a>
 
 </div>
 

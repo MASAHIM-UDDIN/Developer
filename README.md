@@ -31,73 +31,45 @@ and turning ideas into working software.
 
 ---
 
+📊 GitHub Stats
+
 <div align="center">
 
-<table> <tr> <td align="center" width="180">
-
-👥 Followers
-
-2
-
-</td>
-
-<td align="center" width="180">
-
-⭐ Stars
-
-2
-
-</td>
-
-<td align="center" width="180">
-
-📦 Repositories
-
-<a href="https://github.com/MASAHIM-UDDIN?tab=repositories">View →</a>
-
-</td> </tr> </table>
+<a href="https://github.com/MASAHIM-UDDIN"> <img src="https://img.shields.io/github/followers/MASAHIM-UDDIN?label=Followers&style=flat-square&logo=github" /> </a> &nbsp; <a href="https://github.com/MASAHIM-UDDIN?tab=repositories"> <img src="https://img.shields.io/github/stars/MASAHIM-UDDIN?label=Stars&style=flat-square&logo=github" /> </a> &nbsp; <a href="https://github.com/MASAHIM-UDDIN?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-View-181717?style=flat-square&logo=github" /> </a>
 
 </div>
 
 🚀 Featured Projects
 
-<table> <tr>
-
-<td width="50%" valign="top">
+<div align="center">
 
 🤖 Humanoid Agentic Textbook
 
-AI agents, intelligent systems, and agentic workflows.
+AI agents • LLMs • Python
 
-Stack:
-Python AI LLMs
+A project exploring agentic AI systems and intelligent workflows.
 
-View Project →
-
-</td>
-
-<td width="50%" valign="top">
+<a href="https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 🔐 Secure Data Encryption System
 
-Secure data encryption and information protection.
+Python • Cryptography • Security
 
-Stack:
-Python Cryptography Security
+A project focused on secure data encryption and protection.
 
-View Project →
+<a href="https://github.com/MASAHIM-UDDIN/Secure-Data-Encryption-System"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-</td>
-
-</tr> </table>
+</div>
 
 🧠 Currently Learning
 
 <div align="center">
 
-🐍 Python	🤖 AI	🌐 Web Development	⚙️ DevOps
-OOP • APIs	LLMs • Agents	Django • FastAPI	Docker • Git
-Async • Automation	Machine Learning	React • Next.js	Deployment
+🐍 Advanced Python   🤖 AI & LLMs   🌐 Django & FastAPI
+
+⚛️ React & Next.js   🐳 Docker   ⚙️ Automation
+
+</div>
 
 </div>
 ## 📈 GitHub Activity

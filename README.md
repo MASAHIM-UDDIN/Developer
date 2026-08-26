@@ -22,7 +22,7 @@
 Building useful software, automation & AI tools.
 
 <p align="center">
-  
+  ---
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
